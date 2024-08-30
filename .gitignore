@@ -1,0 +1,4 @@
+# 忽略自动生成的文件夹
+DerivedDataCache/
+Intermediate/
+Saved/
