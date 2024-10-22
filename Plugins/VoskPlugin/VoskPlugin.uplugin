@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 10,
+	"VersionName": "1.9",
+	"FriendlyName": "Offline Voice Recognition",
+	"Description": "Accurate offline speech recognition",
+	"Category": "Runtime",
+	"CreatedBy": "Ilgar Lunin",
+	"CreatedByURL": "https://www.facebook.com/dr.conors",
+	"DocsURL": "https://github.com/IlgarLunin/VoskPlugin-docs",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d3c56f7d6af44915a9c818659b4a3d2e",
+	"SupportURL": "https://discord.gg/Tkf7xe2",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "VoskPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}
