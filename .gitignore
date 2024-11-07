@@ -2,3 +2,7 @@
 DerivedDataCache/
 Intermediate/
 Saved/
+.vs/
+Binaries/
+Build/
+Source/

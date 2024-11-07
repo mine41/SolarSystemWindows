@@ -3,6 +3,13 @@
 	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "SolarSystemWindows",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
@@ -14,11 +21,13 @@
 		{
 			"Name": "VoskPlugin",
 			"Enabled": true,
+			"Type": "Runtime",
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d3c56f7d6af44915a9c818659b4a3d2e"
 		},
 		{
 			"Name": "VaRest",
 			"Enabled": true,
+			"Type": "Runtime",
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
 		}
 	],
